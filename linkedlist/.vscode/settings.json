@@ -1,0 +1,16 @@
+{
+    "python.pythonPath": "C:\\Users\\DoanT1\\.virtualenvs\\backend-oOsCmHBM\\Scripts\\python.exe",
+    "pythonTestExplorer.testFramework": "unittest",
+    "python.unitTest.unittestArgs": [
+        "-v",
+        "-s",
+        ".",
+        "-p",
+        "*_test*.py"
+    ],
+    "python.unitTest.pyTestEnabled": false,
+    "python.unitTest.nosetestsEnabled": false,
+    "python.unitTest.unittestEnabled": true,
+    "python.unitTest.promptToConfigure": false,
+    "python.unitTest.autoTestDiscoverOnSaveEnabled": true
+}
